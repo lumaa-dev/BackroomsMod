@@ -4,7 +4,7 @@
 
   "advancements.backrooms.backrooms.root.title": "Бывал ли я здесь раньше?",
   "advancements.backrooms.backrooms.root.description": "Войдите на уровень 0",
-  "advancements.backrooms.backrooms.the_end_is_never.title": "Конца этому никогда не будет, конца этому никогда не будет.…...",
+  "advancements.backrooms.backrooms.the_end_is_never.title": "Конца этому никогда не будет, конца этому никогда не будет...",
   "advancements.backrooms.backrooms.the_end_is_never.description": "Войдите на уровень 1",
   "advancements.backrooms.backrooms.run.title": "БЕГИ",
   "advancements.backrooms.backrooms.run.description": "Войдите на уровень !",
@@ -34,6 +34,8 @@
   "commands.sanity.setter.success.plural": "Установить рассудок игрока %s на %s уровней",
   "commands.sanity.setter.success.singular": "Установить рассудок игрока %s на %s уровень",
 
+  "gamerule.doIHallucinate": "У меня галлюцинации?",
+
   "death.attack.low_sanity": "%1$s сошёл с ума",
   
   "item.backrooms.silk": "Шёлк",
@@ -54,8 +56,10 @@
   "item.backrooms.smiler_spawn_egg": "Яйцо призыва улыбаки",
   "item.backrooms.decaying_brick": "Разлагающийся кирпич",
 
-  "item.backrooms.paper_birch_tape": "Пластинка",
-  "item.backrooms.empyrea_tape": "Пластинка",
+  "item.backrooms.paper_birch_tape": "Кассета",
+  "item.backrooms.empyrea_tape": "Кассета",
+  "item.backrooms.lacebark_pine_tape": "Кассета",
+  "item.backrooms.curiosity_tape": "Кассета",
 
   "itemGroup.backrooms.backrooms": "Закулисья",
   "itemGroup.backrooms.music_tapes": "Пластинки",
